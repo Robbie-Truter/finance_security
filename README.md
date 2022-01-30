@@ -9,6 +9,8 @@
 ### cd client
 ### npm start
 
+---------
+
 We display stock,market data and crypto data to our clients who have registered an account with us.
 
 Upon registration we request users to input their account details and confirm how often they wish to receive emails with market data, stock & crypto updates.
