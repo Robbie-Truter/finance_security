@@ -2,7 +2,7 @@
 cd server
 npm start
 
-cd client
+## cd client
 npm start
 
 We display stock,market data and crypto data to our clients who have registered an account with us.
