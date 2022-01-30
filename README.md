@@ -1,5 +1,7 @@
 # finance_security
 
+## Created with MERN stack
+
 ## How to run program
 ### cd server
 ### npm start
