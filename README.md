@@ -1,9 +1,9 @@
 # finance_security
-cd server
-npm start
+### cd server
+### npm start
 
-## cd client
-npm start
+### cd client
+### npm start
 
 We display stock,market data and crypto data to our clients who have registered an account with us.
 
